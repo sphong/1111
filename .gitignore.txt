@@ -1,1 +1,1 @@
-*.class
+/Labs/bin/*.class
